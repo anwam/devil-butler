@@ -1,7 +1,6 @@
 # go workspaces
 
-new capability of Go, workspaces.
-empower Go multi-modules repo with built-in `go work` commands
+New features from `Go 1.18`, `workspaces`, improve Go multi-modules workflow with built-in `go work` commands.
 
 ## usage
 
